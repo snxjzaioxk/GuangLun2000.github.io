@@ -1,6 +1,6 @@
 # GuangLun2000.github.io
 
-GuangLun (光轮) means Nimbus in Chinese ✨
+GuangLun (abc) means Nimbus in Chinese ✨
 
 Here is **Hanlin Cai (aliom)**. 
 
